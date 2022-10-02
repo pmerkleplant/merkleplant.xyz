@@ -1,0 +1,2 @@
+Redirect permanent "/posts" "https://blog.merkleplant.xyz/posts/"
+Redirect permanent "/wikis" "https://blog.merkleplant.xyz/wikis/"
