@@ -1,1 +1,1 @@
-source for [https://merkleplant.xyz](merkleplant.xyz)
+source for [merkleplant.xyz](https://merkleplant.xyz)
