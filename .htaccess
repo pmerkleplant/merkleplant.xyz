@@ -1,2 +1,2 @@
-Redirect permanent "/posts" "https://blog.merkleplant.xyz/posts/"
-Redirect permanent "/wikis" "https://blog.merkleplant.xyz/wikis/"
+Redirect permanent "/posts" "https://garden.merkleplant.xyz/post/"
+Redirect permanent "/wikis/ampleforth" "https://garden.merkleplant.xyz/wikis/"
